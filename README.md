@@ -1,7 +1,5 @@
 # Profit-Driven vs Growth-Driven Startups: A Comparative Analysis
 
-This project explores the financial strategies of profit-driven and growth-driven startups, analyzing their impact on long-term sustainability, innovation, and success. It compares both models by examining key metrics like funding sources, KPIs, and decision-making processes. Using real-world case studies, industry reports, and research insights, the study highlights the strengths, challenges, and ideal scenarios for each approach.
-----
 This repository contains a comprehensive case study that explores and contrasts two fundamental startup strategies—profit-driven and growth-driven approaches. The aim of this project is to analyze how these strategies affect the financial health, innovation capabilities, and long-term sustainability of startups, especially in dynamic and competitive markets.
 
 ## Project Overview
